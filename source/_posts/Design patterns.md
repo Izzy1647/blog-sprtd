@@ -1,26 +1,11 @@
-Show the main component 
+---
+title: Design Patterns
+date: 2022-06-02 11:33:55
+---
 
+A lecture note for exam revision.
 
-
-
-
-What are the main function in composite component
-
-
-
-
-
-No architectural patterns in written questions
-
-Difference between:
-
-Composite / decorate
-
-Strategy / state
-
-
-
-# Design Patterns
+<!--more-->
 
 ## 1. Strategy
 
