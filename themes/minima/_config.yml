@@ -4,16 +4,17 @@ title: ":)"
 #main info
 #owner
 owner: ""
-email: zhouhoushu@126.com
+# email: zhouhoushu@126.com
 info: ""
 #description
 desc: "A blog site separated from my personal site. Funny that I tried to put my blogs into my personal site, while after doing so I want to separate them apart again."
 
 #menu
 menu:
+  BackToMainSite: 'https://izzy1647.github.io/'
 
 #index/main page max show posts (in number)
-max_post: 4
+max_post: 7
 
 # Colors use hex color without #
 # Theme color
