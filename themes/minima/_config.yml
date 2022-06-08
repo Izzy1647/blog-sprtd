@@ -11,7 +11,7 @@ desc: "A blog site separated from my personal site. Funny that I tried to put my
 
 #menu
 menu:
-  BackToMainSite: 'https://izzy1647.github.io/'
+  My Personal Site: 'https://izzy1647.github.io/'
 
 #index/main page max show posts (in number)
 max_post: 7
