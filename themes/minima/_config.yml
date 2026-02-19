@@ -11,10 +11,10 @@ desc: "A blog site separated from my personal site. Funny that I tried to put my
 
 #menu
 menu:
-  My Personal Site: 'https://izzy1647.github.io/'
+  :Revolution: 'https://blog-zhiyu-zhou.vercel.app/'
 
 #index/main page max show posts (in number)
-max_post: 7
+max_post: 11
 
 # Colors use hex color without #
 # Theme color
