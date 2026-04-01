@@ -1,7 +1,7 @@
 ---
 title: Secret Page
 date: 2024-05-10 19:11:21
-layout: page
+layout: secret
 comments: false
 ---
 
